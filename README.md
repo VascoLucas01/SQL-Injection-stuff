@@ -9,4 +9,4 @@ This repository was created to serve as a reference, both on some concepts avail
 
 [What is SQL Injection?](https://github.com/VascoLucas01/SQL-Injection-stuff/wiki/What-is-SQL-Injection%3F)
 
-
+[Examining the Database](https://github.com/VascoLucas01/SQL-Injection-stuff/wiki/Examining-the-Database)
