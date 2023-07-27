@@ -7,8 +7,8 @@ This repository was created to serve as a reference, both on some concepts avail
 
 [Home](https://github.com/VascoLucas01/SQL-Injection-stuff/wiki)
 
-[What is SQL Injection?](https://github.com/VascoLucas01/SQL-Injection-stuff/wiki/What-is-SQL-Injection%3F)
+[1. What is SQL Injection?](https://github.com/VascoLucas01/SQL-Injection-stuff/wiki/What-is-SQL-Injection%3F)
 
-[Examining the Database](https://github.com/VascoLucas01/SQL-Injection-stuff/wiki/Examining-the-Database)
+[2. Examining the Database](https://github.com/VascoLucas01/SQL-Injection-stuff/wiki/Examining-the-Database)
 
-[UNION attacks](https://github.com/VascoLucas01/SQL-Injection-stuff/wiki/UNION-attacks)
+[3. UNION attacks](https://github.com/VascoLucas01/SQL-Injection-stuff/wiki/UNION-attacks)
