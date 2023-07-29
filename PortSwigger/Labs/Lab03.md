@@ -42,4 +42,5 @@
 
 **Conclusion:** The version displayed is 
 
-![[Pasted image 20230728120916.png]]
+![imagem](https://github.com/VascoLucas01/SQL-Injection-stuff/assets/110473841/5daf8297-096a-4740-b5ed-f0756515effa)
+
