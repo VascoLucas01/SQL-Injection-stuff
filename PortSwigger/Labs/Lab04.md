@@ -43,3 +43,5 @@ There are two different methods that can be used:
 ```
 
 **Conclusion:** The version displayed is "8.0.33-0ubuntu0.20.04.4"
+
+Link: https://docs.google.com/document/d/1IiIajELsFQ2yub7Y6U4MKxjwP6eL5-lsm7pDSKoshNs/edit?usp=sharing
