@@ -22,3 +22,4 @@
 ' OR 1=1 --
 ```
 
+https://docs.google.com/document/d/1o26e7lw0IQAjK_cab6A3ZLAOJu1La5rmqTzwoAlfwfA/edit?usp=sharing
