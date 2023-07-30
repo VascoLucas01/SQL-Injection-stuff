@@ -17,7 +17,7 @@
 
 **Conclusion:** The quote is one of the most common used. Indeed, it breaks the query and it originates  an internal server error. So, it is vulnerable to SQLi.
 
-### **(2) Log in as the adminstrator user
+### **(2) Log in as the adminstrator user**
 
 ```
 administrator'--
